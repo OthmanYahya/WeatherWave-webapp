@@ -47,17 +47,17 @@ https://github.com/OthmanYahya/Weather-App.git
     Clear typography hierarchy
 
 🤝 Contributing
-    1. Fork the repository
-    2. Create feature branch:
-    ```bash
+1. Fork the repository
+2. Create feature branch:
+```bash
     git checkout -b feature/amazing-feature
-    ```
-    3. Commit changes:
-    ```bash
+```
+3. Commit changes:
+```bash
     git commit -m 'Add amazing feature'
-    ```
-    4. Push to branch:
-    ```bash
+```
+4. Push to branch:
+```bash
     git push origin feature/amazing-feature
-    ```
-    5. Open Pull Request
+```
+5. Open Pull Request
