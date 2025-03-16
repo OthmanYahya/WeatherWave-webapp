@@ -49,7 +49,7 @@ https://github.com/OthmanYahya/Weather-App.git
 🤝 Contributing
     1. Fork the repository
     2. Create feature branch:
-    ```bash 
+    ```bash
     git checkout -b feature/amazing-feature
     ```
     3. Commit changes:
