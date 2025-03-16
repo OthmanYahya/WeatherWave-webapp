@@ -2,7 +2,7 @@
 
 A sleek, responsive weather application that provides real-time weather data for any city worldwide. Built with HTML, CSS, and JavaScript using the OpenWeatherMap API.
 
-![App Preview](https://via.placeholder.com/468x300?text=WeatherWave+Interface) *Replace with actual screenshot*
+![App Preview](./images/App_Preview.png) *Replace with actual screenshot*
 
 ## 🌟 Features
 
