@@ -2,6 +2,8 @@
 
 A sleek, responsive weather application that provides real-time weather data for any city worldwide. Built with HTML, CSS, and JavaScript using the OpenWeatherMap API.
 
+![Live Demo](https://weatherwave-vjs.netlify.app/)
+
 ![App Preview](./images/App_Preview.png)
 
 
